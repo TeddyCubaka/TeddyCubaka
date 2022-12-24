@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-**TeddyCubaka/TeddyCubaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My name is Teddy Cubaka Birhingingwa**. I'm a web developper and I'm from DRC - Kinshasa.
 
+If you want more information, there is my whatsapp : **+243 995 867 384** and my mail adress : **teddycubaka96@gmail.com**.
 
 <a>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeddyCubaka&count_private=true&show_icons=true&theme=tokyonight)</a>
 
